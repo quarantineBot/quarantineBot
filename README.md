@@ -15,7 +15,8 @@ usually with a model in the loop and a bias toward shipping.
 
 ### 🚀 What I'm building
 
-- **Agentic OS** 🆕 — a personal operating layer for Claude Code: a library of custom skills, a navigable memory vault, self-improving weekly loops, and a live command-center dashboard — with usage tracking across **Claude / Gemini / OpenAI**.
+- **[iFlow Field Externalizer](https://github.com/quarantineBot/cpi-field-externalizer)** 🆕 · _public_ — a Chrome (MV3) extension + zero-dependency engine that turns hardcoded values (URLs, hosts, credentials, ports) in **SAP Integration Suite** iFlows into externalized `{{parameters}}`. Tested and Chrome-Web-Store-ready.
+- **Agentic OS** — a personal operating layer for Claude Code: a library of custom skills, a navigable memory vault, self-improving weekly loops, and a live command-center dashboard — with usage tracking across **Claude / Gemini / OpenAI**.
 - **CaseAI** — AI-first, multi-tenant case-management SaaS for professional-services firms. `Next.js 16 · Prisma 7 · Vercel AI SDK` — client intake, document intelligence, RAG copilots, guardrails, billing, and a secure client portal.
 - **Algorithmic trading** — execution bots & strategies on Questrade and NinjaTrader (`Python`, `C#`), plus on-chain flash-loan arbitrage (`Solidity / Foundry`).
 - **Web & tools** — Astro/Next.js sites, a Stripe storefront, and a YAML → ATS-friendly résumé generator.
@@ -40,8 +41,8 @@ usually with a model in the loop and a bias toward shipping.
 
 ### ⚡ Currently
 
-- Just shipped **Agentic OS** — codifying repeat work into skills + self-improving loops, folded into my daily workflow.
-- Shipping **CaseAI** toward production (billing, RAG at scale, row-level security).
+- Open-sourced **iFlow Field Externalizer** — a SAP Integration Suite dev tool (Chrome extension + engine).
+- Shipping **CaseAI** toward production; building out **Agentic OS** for Claude Code.
 - Open to select **freelance / consulting** — AI product builds & systems integration.
 
 ---
