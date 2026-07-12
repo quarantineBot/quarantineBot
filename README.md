@@ -15,7 +15,7 @@ usually with a model in the loop and a bias toward shipping.
 
 ### 🚀 What I'm building
 
-- **[Cross Court](https://crosscourt-tennis.vercel.app)** 🆕 · _live_ — an everything-tennis hub: live ATP/WTA scores, rankings, players & tournaments proxied from **ESPN**, a head-to-head comparator, news, and podcasts. `Next.js 15 (App Router) · Tailwind v4`.
+- **[Cross Court](https://cross-court.org)** 🆕 · _live_ — an everything-tennis hub: live ATP/WTA scores, rankings, players & tournaments proxied from **ESPN**, a head-to-head comparator, news, and podcasts. `Next.js 15 (App Router) · Tailwind v4`.
 - **[iFlow Field Externalizer](https://github.com/quarantineBot/cpi-field-externalizer)** · _public_ — a Chrome (MV3) extension + zero-dependency engine that turns hardcoded values (URLs, hosts, credentials, ports) in **SAP Integration Suite** iFlows into externalized `{{parameters}}`. Tested and Chrome-Web-Store-ready.
 - **Agentic OS** — a personal operating layer for Claude Code: a library of custom skills, a navigable memory vault, self-improving weekly loops, and a live command-center dashboard — with usage tracking across **Claude / Gemini / OpenAI**.
 - **CaseAI** — AI-first, multi-tenant case-management SaaS for professional-services firms. `Next.js 16 · Prisma 7 · Vercel AI SDK` — client intake, document intelligence, RAG copilots, guardrails, billing, and a secure client portal.
@@ -42,7 +42,7 @@ usually with a model in the loop and a bias toward shipping.
 
 ### ⚡ Currently
 
-- Building **[Cross Court](https://crosscourt-tennis.vercel.app)** — a live-data tennis hub (`Next.js 15`, ESPN-powered scores & rankings).
+- Building **[Cross Court](https://cross-court.org)** — a live-data tennis hub (`Next.js 15`, ESPN-powered scores & rankings).
 - Shipping **CaseAI** toward production; recently open-sourced **iFlow Field Externalizer** (SAP CPI).
 - Open to select **freelance / consulting** — AI product builds & systems integration.
 
